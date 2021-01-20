@@ -11,9 +11,9 @@ This repository contains solution to following tasks:
 ### Installation
 
 ## Client
-1- npm install <br/>
-2- npm start <br/>
+1- `npm install` <br/>
+2- `npm start` <br/>
 
 ## Server
-1- npm install <br/>
-2- npm start <br/>
+1- `npm install` <br/>
+2- `npm start` <br/>
